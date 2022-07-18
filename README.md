@@ -1,6 +1,6 @@
 - 👋 Hi, I’m William Bourque
 - 👀 I’m interested in software development and data science
-- 🌱 I’m currently learning Python, R and Kotlin
+- 🌱 I’m currently learning Python, Kotlin, C#, Java, HTML/CSS, Javascript, and Jquery
 - 💞️ I’m looking to collaborate on open source projects along with paid mobile apps
 - 📫 How to reach me click the linky thingy... Lol
 
